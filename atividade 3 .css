@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    background-image: url("https://io2.convertiez.com.br/m/doceefesta/shop/products/images/8652/medium/aranha-halloween-ref-kriat-un_8519.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: green;
+    color: white
+}
